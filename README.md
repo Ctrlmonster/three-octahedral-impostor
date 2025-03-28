@@ -13,7 +13,7 @@ The result is not pretty, but it gives an idea of what's possible!
 
 If anyone is interested in contributing, pushing this further along, the proper runtime is what's missing. 
 Skipping raycasts and decoding the octahedron in the shader based on view direction instead (at least I think that's what should be happening)
-and improving the blending based on depth. The sprite is also not quite rotated correctly (this gets explained in the blog post)
+and improving the blending based on depth. The billboard is also not quite rotated correctly (this gets explained in the blog post)
 which becomes especially noticeable if you look from below or above.
 
 
