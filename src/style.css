@@ -1,0 +1,11 @@
+body {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+
+.lerp-container {
+  position: absolute;
+  padding: 5px
+}
