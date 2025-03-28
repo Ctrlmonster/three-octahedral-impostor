@@ -85,7 +85,7 @@ const OCTAHEDRON_DEBUG = {
 
 const IMPOSTOR_DEBUG = {
   model: "cube" as "cube" | "torus",
-  impostorWireframe: true
+  wireframe: true
 }
 
 
@@ -685,7 +685,7 @@ testModel.on("change", ({value}) => {
 });
 
 
-const showImpostorWireframe = impostorFolder.addBinding(IMPOSTOR_DEBUG, "impostorWireframe");
+const showImpostorWireframe = impostorFolder.addBinding(IMPOSTOR_DEBUG, "wireframe");
 
 showImpostorWireframe.on("change", ({value}) => {
   wireFrameImpostor.visible = value;
