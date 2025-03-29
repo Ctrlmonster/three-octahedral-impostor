@@ -18,10 +18,11 @@ which becomes especially noticeable if you look from below or above.
 
 
 ## Recourses
-There are multiple open source implementations out there, i.e. for 
-- [Godot](https://github.com/wojtekpil/Godot-Octahedral-Impostors)
-- [Unity](https://github.com/MaxRoetzler/IMP)
+- [OS Godot Implementation](https://github.com/wojtekpil/Godot-Octahedral-Impostors)
+- [OS Unity Implementation](https://github.com/MaxRoetzler/IMP)
 - [Blending Billboards based on Depth](https://community.khronos.org/t/minimizing-blended-billboard-popping/41471/7)
+- [Unity Impostor Solutions overview by Rune Skovbo Johansen](https://docs.google.com/document/d/17zSUKMpe8sVPJ3fy2lI7T0ct3tTMCKfekgtdx8UFBbU/edit?tab=t.0#heading=h.yt9fv8558f6s)
+- [Octahedral Impostors in UE/Fortnite](https://shaderbits.com/blog/octahedral-impostors)
 
 
 ## Screenshots
